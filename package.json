@@ -1,0 +1,37 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^7.9.0",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "chai": "^4.3.6",
+    "compression": "^1.7.4",
+    "connect-mongo": "^4.6.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.1",
+    "graphql": "^16.5.0",
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-handlebars": "^1.0.0",
+    "koa-router": "^12.0.0",
+    "koa-session": "^6.2.0",
+    "log4js": "^6.6.1",
+    "minimist": "^1.2.6",
+    "mocha": "^10.0.0",
+    "mongoose": "^6.5.2",
+    "nodemailer": "^6.7.7",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "twilio": "^3.80.0"
+  }
+}
